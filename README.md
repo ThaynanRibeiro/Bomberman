@@ -5,4 +5,6 @@ ____
 ### Editores Utilizados.
 Utilizamos Visual Studio, Unity e Photoshop (para criação de layout dos personagens).
 
+___
+
 **Integrantes do projeto:** @ThaynanRibeiro , @GustavoHenrique e @LuisMigliaris.
